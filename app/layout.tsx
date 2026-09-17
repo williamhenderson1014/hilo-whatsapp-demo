@@ -10,7 +10,7 @@ const lexend = Lexend({
 });
 
 export const metadata: Metadata = {
-  title: "Hilo | Respuestas automaticas en WhatsApp",
+  title: "Hilo | Respuestas automáticas en WhatsApp",
   description:
     "Consola de atencion automatica para WhatsApp: respuestas a consultas frecuentes, respuestas con datos reales y derivacion a una persona con el historial completo.",
 };
